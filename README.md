@@ -1,5 +1,5 @@
 # 💫 About Me:
-My passion is to create attractive and intuitive web experiences that meet the needs of users. I am always in search of new challenges to improve my skills and knowledge in this exciting world of web development.<br><br>Currently, I am in a training process to become a backend developer with Node.js, with the aim of creating complete and efficient web applications. I love learning and experimenting with new technologies, and I am willing to take on any challenge that comes my way.<br><br>If you have any questions or just want to chat about web development, feel free to contact me! 😊
+My passion is to create attractive and intuitive web experiences that meet the needs of users. I am always in search of new challenges to improve my skills and knowledge in this exciting world of web development.<br><br>Currently, I am in a training process to become a backend developer with Node.js, with the aim of creating complete and efficient web applications. I love learning and experimenting with new technologies, and I am willing to take on any challenge that comes my way.<br><br>If you have any questions or just want to chat about web development, feel free to contact me! 😊<br>
 <br>With imagination as the limit, I program to create solutions and bring ideas to life.
 
 
