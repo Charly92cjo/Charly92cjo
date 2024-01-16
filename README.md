@@ -16,10 +16,9 @@ My passion is to create attractive and intuitive web experiences that meet the n
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Charly92cjo&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]([https://visitcount.itsvg.in/api?id=Charly92cjo&icon=0&color=0)](https://visitcount.itsvg.in](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaqQwGBhfGXlo2qvpRljhVcBK_lPmqHWTeg&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaqQwGBhfGXlo2qvpRljhVcBK_lPmqHWTeg&usqp=CAU)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
