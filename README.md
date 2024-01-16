@@ -20,5 +20,5 @@ My passion is to create attractive and intuitive web experiences that meet the n
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![]([https://visitcount.itsvg.in/api?id=Charly92cjo&icon=0&color=0)](https://visitcount.itsvg.in](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaqQwGBhfGXlo2qvpRljhVcBK_lPmqHWTeg&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaqQwGBhfGXlo2qvpRljhVcBK_lPmqHWTeg&usqp=CAU)
+[![](https://visitcount.itsvg.in/api?id=Charly92cjo&icon=0&color=0)](https://visitcount.itsvg.in](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaqQwGBhfGXlo2qvpRljhVcBK_lPmqHWTeg&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLaqQwGBhfGXlo2qvpRljhVcBK_lPmqHWTeg&usqp=CAU](https://statics.memondo.com/p/s1/crs/2022/04/CR_1231133_0ad7d9b28ef3421185f9391c8070b924_programacion_avanzada.jpg?cb=4682418)https://statics.memondo.com/p/s1/crs/2022/04/CR_1231133_0ad7d9b28ef3421185f9391c8070b924_programacion_avanzada.jpg?cb=4682418)
 
